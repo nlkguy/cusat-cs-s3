@@ -1,6 +1,6 @@
 
 # CUSAT B.Tech CS Semester 3
-Semester 3 - B.Tech Computer Science Engineering , CUSAT,
+Semester 3 - B.Tech Computer Science Engineering , CUSAT.
 ---
 <div align="center">
 
