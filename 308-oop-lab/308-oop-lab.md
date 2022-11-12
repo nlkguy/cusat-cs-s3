@@ -1,13 +1,13 @@
 # 19-202-0308 OBJECT ORIENTED PROGRAMMING LABORATORY
-### Course Outcomes:
-1. Familiarise with the language environment.
-2. Develop object oriented programming style and compare that with structured style of programming.
-3. Plan and decide appropriate oops features for the problems in hand.
-4. Create a complete class definition with constructors and methods and to instantiate it.
-5. Design efficient programs by incorporating oops features like operator overloading, virtual
-functions, different ways of inheritance structures etc.
-6. Develop programs that can read and write data to and from secondary storage.
-
+## Refresher C++ Programs
+1. Sum of N natural numbers.
+2. Swap 2 numbers.
+3. Print fibonacci series.
+4. Print prime numbers in fibonacci series.
+5. Check integer , Palinfrome or not.
+6. Sum of elements in an array.
+7. Smallest and largest number in an array.
+8. Matrix multiplication. 
 ## Cycle-I
 1. Programs to differentiate between struct and class.
 2. Programs to implement data abstraction, data encapsulation and information hiding.
