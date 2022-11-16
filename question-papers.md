@@ -19,7 +19,8 @@
 |2018|November|:heavy_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|
 |2019|April|:heavy_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|
 |2019|November|:heavy_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|
-|2020|November|:heavy_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|
-|2021|April|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_check_mark:|
-|2021|November|:heavy_multiplication_x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|2020|November|:heavy_multiplication_x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|2021|April|:heavy_multiplication_x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|2021|November|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_check_mark:|
+
 
