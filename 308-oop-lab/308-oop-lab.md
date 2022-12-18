@@ -12,6 +12,18 @@
 1. Programs to differentiate between struct and class.
 2. Programs to implement data abstraction, data encapsulation and information hiding.
 3. Programs to demonstrate parameter passing techniques.
+
+### Cycle 1 Lab Experiments
+
+1. [Date Validation , Print Next Date](https://github.com/nlkguy/cusat-cs-s3/blob/main/308-oop-lab/cycle-1/01_val_date.cpp)
+2. [Bank](https://github.com/nlkguy/cusat-cs-s3/blob/main/308-oop-lab/cycle-1/02_bank.cpp)
+3. [Integer Array , Static Functions, Average, Sort](https://github.com/nlkguy/cusat-cs-s3/blob/main/308-oop-lab/cycle-1/03_static_array_avg.cpp)
+4. [Shortest b/w coordinates,Triangle Validation](https://github.com/nlkguy/cusat-cs-s3/blob/main/308-oop-lab/cycle-1/04_coordinate_triangle.cpp)
+5. [Time class ,second field swapping](https://github.com/nlkguy/cusat-cs-s3/blob/main/308-oop-lab/cycle-1/05_swap_time_field.cpp)
+6. [Supermarket](https://github.com/nlkguy/cusat-cs-s3/blob/main/308-oop-lab/cycle-1/06_supermarket.cpp)
+7. [1D Array, Copy Constructor,Mode](https://github.com/nlkguy/cusat-cs-s3/blob/main/308-oop-lab/cycle-1/07_copy_constructor_array.cpp)
+
+
 ## Cycle-II
 1. Programs to implement different Inheritance structures - Single, multiple, multilevel, and
 hierarchical.
