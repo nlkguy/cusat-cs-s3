@@ -31,14 +31,36 @@ class Distance{
         }
     }
 
+    Distance operator -(Distance &d){
+
+        int i , f;
+        f = feet - d.feet;
+        i = inch - d.inch;
+        if(i<0){
+            i = i + 12;
+            f--;
+        }
+        d.feet = f;
+        d.inch = i;
+        return d;
+    }
+
+
+
 };
 
 int main(){
 
-    Distance d;
-    d.getDist();
-    d.printDist();
-    --d;
-    d.printDist();
+    Distance d1;
+    d1.getDist();
+    d1.printDist();
+    --d1;
+    d1.printDist();
+    Distance d2;
+    d2.getDist();
+    d2.printDist();
+    d2 = d1-d2;
+    d2.printDist();
+
 
 }
