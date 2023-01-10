@@ -12,6 +12,12 @@ class Distance{
     public :
     void getDist(){
         cout<<"Distance feet/inch : ";cin>>feet>>inch;
+        while(inch>12){
+
+            feet = feet + inch/12;
+            inch = inch%12;
+
+        }
     }
     void printDist(){
         cout<<feet<<" feets, "<<inch<<" inches"<<endl;
