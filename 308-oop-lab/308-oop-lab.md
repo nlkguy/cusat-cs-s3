@@ -15,16 +15,16 @@
 
 ### Cycle 1 Lab Experiments
 
-1. [Date Validation , Print Next Date](https://github.com/nlkguy/cusat-cs-s3/blob/main/308-oop-lab/cycle-1/01_val_date.cpp)
-2. [Bank](https://github.com/nlkguy/cusat-cs-s3/blob/main/308-oop-lab/cycle-1/02_bank.cpp)
-3. [Integer Array , Static Functions, Average, Sort](https://github.com/nlkguy/cusat-cs-s3/blob/main/308-oop-lab/cycle-1/03_static_array_avg.cpp)
-4. [Shortest b/w coordinates,Triangle Validation](https://github.com/nlkguy/cusat-cs-s3/blob/main/308-oop-lab/cycle-1/04_coordinate_triangle.cpp)
-5. [Time class ,second field swapping](https://github.com/nlkguy/cusat-cs-s3/blob/main/308-oop-lab/cycle-1/05_swap_time_field.cpp)
-6. [Supermarket](https://github.com/nlkguy/cusat-cs-s3/blob/main/308-oop-lab/cycle-1/06_supermarket.cpp)
-7. [1D Array, Copy Constructor,Mode](https://github.com/nlkguy/cusat-cs-s3/blob/main/308-oop-lab/cycle-1/07_copy_constructor_array.cpp)
-8. [Overload Date](https://github.com/nlkguy/cusat-cs-s3/blob/main/308-oop-lab/cycle-1/08_date_overload.cpp)
-9. [Distance - Feet / Inch](https://github.com/nlkguy/cusat-cs-s3/blob/main/308-oop-lab/cycle-1/09_distance_overload.cpp)
-10. [Overload String , Concatenate / Reverse](https://github.com/nlkguy/cusat-cs-s3/blob/main/308-oop-lab/cycle-1/10_string_ops_overload.cpp)
+1. [Date Validation , Print Next Date](https://github.com/nlkguy/cusat-cs-s3/blob/main/308-oop-lab/01_val_date.cpp)
+2. [Bank](https://github.com/nlkguy/cusat-cs-s3/blob/main/308-oop-lab/02_bank.cpp)
+3. [Integer Array , Static Functions, Average, Sort](https://github.com/nlkguy/cusat-cs-s3/blob/main/308-oop-lab/03_static_array_avg.cpp)
+4. [Shortest b/w coordinates,Triangle Validation](https://github.com/nlkguy/cusat-cs-s3/blob/main/308-oop-lab/04_coordinate_triangle.cpp)
+5. [Time class ,second field swapping](https://github.com/nlkguy/cusat-cs-s3/blob/main/308-oop-lab/05_swap_time_field.cpp)
+6. [Supermarket](https://github.com/nlkguy/cusat-cs-s3/blob/main/308-oop-lab/06_supermarket.cpp)
+7. [1D Array, Copy Constructor,Mode](https://github.com/nlkguy/cusat-cs-s3/blob/main/308-oop-lab/07_copy_constructor_array.cpp)
+8. [Overload Date](https://github.com/nlkguy/cusat-cs-s3/blob/main/308-oop-lab/08_date_overload.cpp)
+9. [Distance - Feet / Inch](https://github.com/nlkguy/cusat-cs-s3/blob/main/308-oop-lab/09_distance_overload.cpp)
+10. [Overload String , Concatenate / Reverse](https://github.com/nlkguy/cusat-cs-s3/blob/main/308-oop-lab/10_string_ops_overload.cpp)
 
 
 
