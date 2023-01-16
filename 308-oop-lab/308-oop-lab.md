@@ -26,7 +26,15 @@
 9. [Distance - Feet / Inch](https://github.com/nlkguy/cusat-cs-s3/blob/main/308-oop-lab/09_distance_overload.cpp)
 10. [Overload String , Concatenate / Reverse](https://github.com/nlkguy/cusat-cs-s3/blob/main/308-oop-lab/10_string_ops_overload.cpp)
 
+------------------------
 
+11. [Polar to Rectangular Co-ord](https://github.com/nlkguy/cusat-cs-s3/blob/main/308-oop-lab/11_polar_to_rect.cpp)
+12. [Employee,Manager,Supervisor](https://github.com/nlkguy/cusat-cs-s3/blob/main/308-oop-lab/12_employee_inherited.cpp)
+
+## Internal Lab Exam
+
+- [Object Array - Item Class , Find Order](https://github.com/nlkguy/cusat-cs-s3/blob/main/308-oop-lab/intm_lab_exam_list_items.cpp)
+- [Air Travel Route](https://github.com/nlkguy/cusat-cs-s3/blob/main/308-oop-lab/intm_lab_exam_air_travel.cpp)
 
 
 ## Cycle-II
@@ -39,7 +47,6 @@ hierarchical.
 2. Programs to implement Files.
 
 ### References:
-
 
 - [Nithin Yesudas](https://github.com/NithinYesudas/)
 1. Balagurusamy, E., Object Oriented Programming with C++, 6th Edition, Tata McGraw Hill.,
