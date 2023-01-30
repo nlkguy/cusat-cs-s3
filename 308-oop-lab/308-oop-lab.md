@@ -30,6 +30,10 @@
 
 11. [Polar to Rectangular Co-ord](https://github.com/nlkguy/cusat-cs-s3/blob/main/308-oop-lab/11_polar_to_rect.cpp)
 12. [Employee,Manager,Supervisor](https://github.com/nlkguy/cusat-cs-s3/blob/main/308-oop-lab/12_employee_inherited.cpp)
+13. [Cricketer Diamond Inheritance](https://github.com/nlkguy/cusat-cs-s3/blob/main/308-oop-lab/13_cricketer.cpp)
+14. [Family - Hybrid Inheritance](https://github.com/nlkguy/cusat-cs-s3/blob/main/308-oop-lab/14_hybrd_inherit_family.cpp)
+15. [Shape Class - Runtime Polymorphism](https://github.com/nlkguy/cusat-cs-s3/blob/main/308-oop-lab/15_shape_runtime_polymorph.cpp)
+
 
 ## Internal Lab Exam
 
