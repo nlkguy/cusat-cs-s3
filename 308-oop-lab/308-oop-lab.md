@@ -57,6 +57,7 @@ hierarchical.
 ### References:
 
 - [Nithin Yesudas](https://github.com/NithinYesudas/)
+- [Sinan Mohd](https://git.sinanmohd.com/)
 1. Balagurusamy, E., Object Oriented Programming with C++, 6th Edition, Tata McGraw Hill.,
 ISBN: 978-1-25-902993-6.
 2. Robert Lafore, Object Oriented Programming in Turbo C++, 4th Edition, Galgotia, ISBN-13:
