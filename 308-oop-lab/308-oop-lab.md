@@ -34,11 +34,15 @@
 14. [Family - Hybrid Inheritance](https://github.com/nlkguy/cusat-cs-s3/blob/main/308-oop-lab/14_hybrd_inherit_family.cpp)
 15. [Shape Class - Runtime Polymorphism](https://github.com/nlkguy/cusat-cs-s3/blob/main/308-oop-lab/15_shape_runtime_polymorph.cpp)
 
+------------------------
+
 
 ## Internal Lab Exam
 
 - [Object Array - Item Class , Find Order](https://github.com/nlkguy/cusat-cs-s3/blob/main/308-oop-lab/intm_lab_exam_list_items.cpp)
 - [Air Travel Route](https://github.com/nlkguy/cusat-cs-s3/blob/main/308-oop-lab/intm_lab_exam_air_travel.cpp)
+- [Date Format - Class Conversion](https://github.com/nlkguy/cusat-cs-s3/blob/main/308-oop-lab/int_date_format.cpp)
+
 
 
 ## Cycle-II
