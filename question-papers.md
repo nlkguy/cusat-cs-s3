@@ -6,9 +6,16 @@
 ### 2019 Revision of Syllabus
 | Year | Month | LATT | LD | DCS | OOP | PPL | DCC | 
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|2023|January|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |2022|February|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 
-## February 2022 (2019 Revision) :new:
+## January 2023 (2019 Revision) :new:
+
+|||||||
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|[DCC](https://github.com/nlkguy/cusat-cs-s3/blob/main/question-papers/2019Ad/DCC-2022-Feb%5B2019Ad%5D.pdf) | [DCS](https://github.com/nlkguy/cusat-cs-s3/blob/main/question-papers/2019Ad/DCS-2022-Feb%5B2019Ad%5D.pdf) | [LATT](https://github.com/nlkguy/cusat-cs-s3/blob/main/question-papers/2019Ad/LATT-2022-Feb%5B2019Ad%5D.pdf) | [LD](https://github.com/nlkguy/cusat-cs-s3/blob/main/question-papers/2019Ad/LD-2022-Feb%5B2019Ad%5D.pdf) | [OOP](https://github.com/nlkguy/cusat-cs-s3/blob/main/question-papers/2019Ad/OOP-2022-Feb%5B2019Ad%5D.pdf) | [PPL](https://github.com/nlkguy/cusat-cs-s3/blob/main/question-papers/2019Ad/PPL-2022-Feb%5B2019Ad%5D.pdf) |
+
+## February 2022 (2019 Revision)
 
 |||||||
 |:---:|:---:|:---:|:---:|:---:|:---:|

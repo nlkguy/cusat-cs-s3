@@ -1,0 +1,35 @@
+# Simple calculator program in Python
+
+# Function to add two numbers
+def add(x, y):
+    return x + y
+
+# Function to subtract two numbers
+def subtract(x, y):
+    return x - y
+
+# Function to multiply two numbers
+def multiply(x, y):
+    return x * y
+
+# Function to divide two numbers
+def divide(x, y):
+    return x / y
+
+# User input for the two numbers and the operation
+num1 = float(input("Enter the first number: "))
+num2 = float(input("Enter the second number: "))
+operation = input("Enter the operation (+, -, *, /): ")
+
+# Perform the selected operation
+if operation == "+":
+    print(num1, "+", num2, "=", add(num1, num2))
+elif operation == "-":
+    print(num1, "-", num2, "=", subtract(num1, num2))
+elif operation == "*":
+    print(num1, "*", num2, "=", multiply(num1, num2))
+elif operation == "/":
+    print(num1, "/", num2, "=", divide(num1, num2))
+else:
+    print("Invalid input. Please try again.")
+    
