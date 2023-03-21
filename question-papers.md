@@ -13,7 +13,7 @@
 
 |||||||
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|[DCC](https://github.com/nlkguy/cusat-cs-s3/blob/main/question-papers/2019Ad/DCC-2022-Feb%5B2019Ad%5D.pdf) | [DCS](https://github.com/nlkguy/cusat-cs-s3/blob/main/question-papers/2019Ad/DCS-2022-Feb%5B2019Ad%5D.pdf) | [LATT](https://github.com/nlkguy/cusat-cs-s3/blob/main/question-papers/2019Ad/LATT-2022-Feb%5B2019Ad%5D.pdf) | [LD](https://github.com/nlkguy/cusat-cs-s3/blob/main/question-papers/2019Ad/LD-2022-Feb%5B2019Ad%5D.pdf) | [OOP](https://github.com/nlkguy/cusat-cs-s3/blob/main/question-papers/2019Ad/OOP-2022-Feb%5B2019Ad%5D.pdf) | [PPL](https://github.com/nlkguy/cusat-cs-s3/blob/main/question-papers/2019Ad/PPL-2022-Feb%5B2019Ad%5D.pdf) |
+|[DCC](/question-papers/2019Ad/JAN-2023-DCC-S3-19Ad.pdf) | [DCS](/question-papers/2019Ad/JAN-2023-DCS-S3-19Ad.pdf) | [LATT](/question-papers/2019Ad/JAN-2023-LATT-S3-19Ad.pdf) | [LD](/question-papers/2019Ad//JAN-2023-LD-S3-19Ad.pdf) | [OOP](/question-papers/2019Ad/JAN-2023-OOP-S3-19Ad.pdf) | [PPL](/question-papers/2019Ad/JAN-2023-PPL-S3-19Ad.pdf) |
 
 ## February 2022 (2019 Revision)
 
